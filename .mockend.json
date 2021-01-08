@@ -1,8 +1,8 @@
 {
-  "Post": {
-    "title": "string",
-    "body": "string",
-    "views": "int",
+  "Productos": {
+    "nombre": "string",
+    "descripcion": "string",
+    "precio": "int",
     "published": "boolean",
     "createdAt": "date",
     "comments": "Comment[]"
