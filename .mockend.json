@@ -1,5 +1,5 @@
 {
-  "Productos": {
+  "Producto": {
     "nombre": "string",
     "descripcion": "string",
     "precio": "int",
@@ -9,6 +9,6 @@
   },
   "Comment": {
     "body": "string",
-    "post": "Productos"
+    "post": "Producto"
   }
 }
